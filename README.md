@@ -16,7 +16,7 @@ Styled Components | Allows you to write actual CSS code to style your components
 
 ## Preview Demo
 
-https://website-reactjs-sanity-io.vercel.app/
+(Em Breve)
 
 <br>
 
