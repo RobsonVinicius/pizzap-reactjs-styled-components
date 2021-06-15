@@ -2,14 +2,15 @@
 
 Este projeto tem como objetivo exercitar os conhecimentos em React JS e Styled Components
 
+<br>
+
 ## Tecnologias
 
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
-React JS | Uma biblioteca JavaScript para criar interfaces de usuário | v16.13.0 | https://pt-br.reactjs.org/
-React Router DOM | DOM bindings for React Router | v5.2.0 | https://yarnpkg.com/package/react-router-dom
-Styled Components | Allows you to write actual CSS code to style your components | v4.2.0 | https://styled-components.com/
-
+React JS | Uma biblioteca JavaScript para criar interfaces de usuário | -- / -- | https://pt-br.reactjs.org/
+React Router DOM | DOM bindings for React Router | -- / -- | https://yarnpkg.com/package/react-router-dom
+Styled Components | Allows you to write actual CSS code to style your components | -- / -- | https://styled-components.com/
 
 <br>
 
