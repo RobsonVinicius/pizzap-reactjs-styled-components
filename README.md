@@ -8,9 +8,10 @@ Este projeto tem como objetivo exercitar os conhecimentos em React JS e Styled C
 
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
-React JS | Uma biblioteca JavaScript para criar interfaces de usuário | -- / -- | https://pt-br.reactjs.org/
-React Router DOM | DOM bindings for React Router | -- / -- | https://yarnpkg.com/package/react-router-dom
-Styled Components | Allows you to write actual CSS code to style your components | -- / -- | https://styled-components.com/
+React JS | Uma biblioteca JavaScript para criar interfaces de usuário | v17.0.2 | https://pt-br.reactjs.org/
+React Router DOM | DOM bindings for React Router | v5.2.0 | https://yarnpkg.com/package/react-router-dom
+React Icons | Include popular icons in your React projects | v4.2.0 | https://react-icons.github.io/react-icons/
+Styled Components | Allows you to write actual CSS code to style your components | v5.3.0 | https://styled-components.com/
 
 <br>
 
