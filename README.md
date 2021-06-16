@@ -15,9 +15,9 @@ Styled Components | Allows you to write actual CSS code to style your components
 
 <br>
 
-## Preview Demo
-
-(Em Breve)
+## Preview Demo (em construção)
+ 
+https://pizzap-reactjs-styled-components.netlify.app/
 
 <br>
 
