@@ -15,16 +15,15 @@ Styled Components | Allows you to write actual CSS code to style your components
 
 <br>
 
-## Preview Demo
-
-(Em Breve)
+## Preview Demo (em construção)
+ 
+https://pizzap-reactjs-styled-components.netlify.app/
 
 <br>
 
 ## React Project
 
-
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
