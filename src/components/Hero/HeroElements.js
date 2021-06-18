@@ -3,8 +3,8 @@ import ImgBg from '../../images/pizza-3.jpg'
 
 export const HeroContainer = styled.div `
   background: linear-gradient(to right,
-    rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url(${ImgBg});
-  height: 100vh; /* .7 .1 */
+    rgba(0, 0, 0, .8), rgba(0, 0, 0, .3)), url(${ImgBg}); /* .7 .1 */
+  height: 100vh; 
   background-position: center;
   background: cover;
   overflow: hidden;
