@@ -4,6 +4,10 @@ Este projeto tem como objetivo exercitar os conhecimentos em React JS e Styled C
 
 <br>
 
+
+![Preview Project](src/images/preview.jpg)
+
+
 ## Tecnologias
 
 Tecnologia | Descrição | Versão | Site
